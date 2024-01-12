@@ -4,3 +4,5 @@ Developer 2 making critical changes
 Developer 2 making more critical changes
 change #1
 change #2
+
+My own change comment as usual to see my changes to existed files
