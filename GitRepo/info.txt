@@ -1,1 +1,6 @@
 This is our first file change
+
+Developer 2 making critical changes
+Developer 2 making more critical changes
+change #1
+change #2
